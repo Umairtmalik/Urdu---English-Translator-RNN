@@ -80,3 +80,10 @@ Epoch [2/50], Train Loss: 6.6392, Val Loss: 7.0377, Val BLEU: 0.00
 ...
 Epoch [49/50], Train Loss: 0.7452, Val Loss: 9.4111, Val BLEU: 0.84
 Epoch [50/50], Train Loss: 0.7110, Val Loss: 9.3564, Val BLEU: 0.82
+
+```
+## Cloning the Repo
+```bash
+git clone https://github.com/tallal02/Urdu-to-English-Translation.git
+cd Urdu-to-English-Translation
+```
