@@ -1,6 +1,6 @@
  # Urdu to English-Translator-RNN
 An attention-based encoder-decoder RNN (with LSTM) built from scratch in PyTorch for translating Urdu to English. The project includes custom data handling, training with dynamic loss and BLEU score evaluation (using Moses multi-bleu.perl), and comprehensive result reporting.
-**# Urdu-to-English Neural Machine Translation 🇵🇰➡️🇬🇧
+# Urdu-to-English Neural Machine Translation 🇵🇰➡️🇬🇧
 
 This project presents a custom implementation of an **attention-based encoder-decoder RNN model** (with an optional LSTM enhancement) for translating Urdu sentences into English. It aims to provide hands-on experience in building, training, and evaluating a sequence-to-sequence (seq2seq) model from scratch using PyTorch.
 
